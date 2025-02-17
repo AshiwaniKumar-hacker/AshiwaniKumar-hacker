@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshiwaniKumar-hacker
+- 👋 Hi, I’m @AshiwaniKumar.
 - 👀 I’m interested in Ethical Hacking, Frontend devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
 - 📫 How to reach me kumarashiwani532@gmail.com
