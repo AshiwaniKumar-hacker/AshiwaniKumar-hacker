@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AshiwaniKumar.
+- 👋 Hi, I’m Ashiwani Kumar.
 - 👀 I’m interested in Ethical Hacking, Web Devlopment, App devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
+- I'm doing my bachelor from MDU Rohtak,Haryana.
 - 📫 How to reach me kumarashiwani532@gmail.com
 - 😄 Pronouns: Crazy Devloper.
 - ⚡ Fun fact: I am Hacker.
