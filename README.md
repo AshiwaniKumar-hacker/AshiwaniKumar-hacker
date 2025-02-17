@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshiwaniKumar.
-- 👀 I’m interested in Ethical Hacking, Frontend devlopment etc.
+- 👀 I’m interested in Ethical Hacking, Web Devlopment, App devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
 - 📫 How to reach me kumarashiwani532@gmail.com
 - 😄 Pronouns: Crazy Devloper.
