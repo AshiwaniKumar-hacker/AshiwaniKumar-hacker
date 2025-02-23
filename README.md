@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mr. Ashiwani Kumar.
 - 👀 I’m interested in Ethical Hacking, Web Devlopment, App devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
+- I'm a frontend devloper.
 - I'm doing my bachelor from MDU Rohtak,Haryana.
 - 📫 How to reach me kumarashiwani532@gmail.com
 - 😄 Pronouns: Crazy Devloper.
