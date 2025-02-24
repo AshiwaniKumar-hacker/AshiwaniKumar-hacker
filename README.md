@@ -5,7 +5,7 @@
 - I'm doing my bachelor from MDU Rohtak,Haryana.
 - 📫 How to reach me kumarashiwani532@gmail.com .
 - 😄 Pronouns: Crazy Devloper.
-- ⚡ Fun fact: I am Hacker.
+- ⚡ Fun fact: I am hacker.
 
 <!---
 AshiwaniKumar-hacker/AshiwaniKumar-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
