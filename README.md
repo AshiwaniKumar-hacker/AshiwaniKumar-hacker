@@ -6,6 +6,7 @@
 - 📫 How to reach me kumarashiwani532@gmail.com .
 - 😄 Pronouns: Crazy Devloper.
 - ⚡ Fun fact: I am hacker.
+- I am a member of Digitron of my College.
 
 <!---
 AshiwaniKumar-hacker/AshiwaniKumar-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
