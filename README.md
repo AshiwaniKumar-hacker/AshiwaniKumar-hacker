@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Devlopment.
 - I'm a Frontend Devloper.
 - 📫 How to reach me kumarashiwani532@gmail.com .
-- 😄 Pronouns: .
+- 😄 Pronouns: Web Designer.
 - ⚡ Fun fact: I am hacker.
 - I am TECHNICAL COORDINATOR of Digitron.
 
