@@ -5,7 +5,6 @@
 - 📫 How to reach me kumarashiwani532@gmail.com .
 - 😄 Pronouns: Web Designer.
 - ⚡ Fun fact: I am hacker.
-- I am TECHNICAL COORDINATOR of Digitron.
 
 <!---
 AshiwaniKumar-hacker/AshiwaniKumar-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
