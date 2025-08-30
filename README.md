@@ -1,5 +1,5 @@
 👋 Hi, I’m Mr. Ashiwani Kumar.
-- 👀 I’m interested in Ethical Hacking, Web Devlopment, App devlopment etc.
+- 👀 I’m interested in Web Devlopment, App devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
 - I'm a Frontend Devloper.
 - 📫 How to reach me kumarashiwani532@gmail.com .
