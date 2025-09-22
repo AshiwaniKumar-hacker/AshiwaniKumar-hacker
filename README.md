@@ -1,7 +1,7 @@
 👋 Hi, I’m Mr. Ashiwani Kumar.
 - 👀 I’m interested in Web Devlopment, App devlopment etc.
 - 🌱 I’m currently learning Web Devlopment.
-- I'm a Frontend Devloper.
+- I'm a Full Stack Web Devloper.
 - 📫 How to reach me kumarashiwani532@gmail.com .
 - 😄 Pronouns: Web Designer.
 - ⚡ Fun fact: I am hacker.
