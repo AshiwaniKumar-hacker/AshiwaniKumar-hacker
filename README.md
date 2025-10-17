@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshiwaniKumar-hacker&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/AshiwaniKumar-hacker?style=social)
-![YouTube Channel Subscribers](youtube.com/channel/MRASHIWANIHACKER)
+![YouTube Channel Subscribers]((https://www.youtube.com/@Ashiwanikumar))
 
 ---
 
