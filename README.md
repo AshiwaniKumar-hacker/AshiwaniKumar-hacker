@@ -42,7 +42,7 @@ UI/UX Design | Creative Content | Debugging | Project Building
 
 ## 🎮 My Content
 
-🎥 I upload gaming and tech videos on my **YouTube Channel — [MR ASHIWANI HACKER](https://www.youtube.com/@MRASHIWANIHACKER)**.  
+🎥 I upload gaming and tech videos on my **YouTube Channel — [AshiwaniXp](https://www.youtube.com/@MRASHIWANIHACKER)**.  
 🕹️ Mainly focused on **Free Fire gameplay**, **vlogs**, and **fun edits**.  
 💻 I also share **small frontend projects**, tutorials, and web-dev experiments.
 
