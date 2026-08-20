@@ -18,8 +18,8 @@ I love building modern web applications, exploring new technologies, and improvi
 
 ## 🔥 Currently Working On
 
-- 🌱 Learning **Advanced Web Development** and **App Development**  
-- 👀 Interested in **Frontend Design**, **Backend Logic**, and **Mobile Apps**  
+- 🌱 **Advanced Web Development** and **App Development**  
+- 👀 **Frontend Design**, **Backend Logic**, and **Mobile Apps**  
 - 🧠 Continuously exploring new ideas and side projects  
 
 ---
