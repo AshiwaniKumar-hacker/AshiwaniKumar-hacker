@@ -27,16 +27,16 @@ I love building modern web applications, exploring new technologies, and improvi
 ## 🛠️ Skills
 
 ### 💻 Frontend
-HTML | CSS | JavaScript | Tailwind CSS | React (Basics)
+HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | ReactJS | React Native
 
 ### ⚙️ Backend
-Node.js | Express | Basic REST APIs
+Node.js | Express | REST APIs | Authentication & Authorization
 
 ### 🗄️ Database & Tools
-JSON | Git | VS Code | InShot (Video Editing)
+JSON | MONGODB | SQL | Git | VS Code | InShot (Video Editing)
 
 ### 🎨 Others
-UI/UX Design | Creative Content | Debugging | Project Building
+UI/UX Design | Creative Content | Debugging | Project Building | Solving Real World Problems
 
 ---
 
@@ -57,14 +57,14 @@ UI/UX Design | Creative Content | Debugging | Project Building
 
 ## 😄 Pronouns & Role
 
-**Role:** Web Designer | Full-Stack Learner  
+**Role:** Web Designer | Full-Stack Developer  
 **Pronouns:** He / Him  
 
 ---
 
 ## ⚡ Fun Fact
 
-I’m a **hacker 😎 (at heart)** — passionate about **ethical hacking** and **cybersecurity**, always learning responsibly.  
+I’m a **hacker 😎 (at heart)** — passionate about **ethical hacking** and **cybersecurity**.
 
 ---
 
