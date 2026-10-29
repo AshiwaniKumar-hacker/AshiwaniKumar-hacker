@@ -102,10 +102,10 @@ Building SaaS tools that solve real-world problems.
 
 ---
 
-## 😎 Fun Fact
+## 😍😍
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;%3E+hacker+%28at+heart%29+%F0%9F%98%8E;%3E+passionate+about+ethical+hacking;%3E+cybersecurity+%3D+life" alt="hacker typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;%3E+Full-Stack+Developer+%F0%9F%92%BB;%3E+SaaS+Builder+%F0%9F%9A%80;%3E+React+%7C+Node.js+%7C+MongoDB+%E2%9A%9B%EF%B8%8F;%3E+Gamer+(at+heart)+%F0%9F%98%8E;%3E+building+solutions+that+matter" alt="hacker typing" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
