@@ -33,11 +33,13 @@ HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | ReactJS | React Native
 Node.js | Express | REST APIs | Authentication & Authorization
 
 ### 🗄️ Database & Tools
-JSON | MONGODB | SQL | Git | VS Code | InShot (Video Editing)
+JSON | MONGODB | SQL | Git | VS Code | InShot (Video Editing) | Chatgpt | Claude | Deepseek | Grok
 
 ### 🎨 Others
 UI/UX Design | Creative Content | Debugging | Project Building | Solving Real World Problems
 
+### SaaS
+Building SaaS tool that solves the real world problems.
 ---
 
 ## 🎮 My Content
