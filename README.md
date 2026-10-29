@@ -114,18 +114,9 @@ Building SaaS tools that solve real-world problems.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AshiwaniKumar-hacker&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiwaniKumar-hacker&layout=compact&theme=radical&hide_border=true" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshiwaniKumar-hacker&theme=radical&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshiwaniKumar-hacker&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshiwaniKumar-hacker&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
