@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mr. Ashiwani Kumar  
+# Hi, I'm Mr. Ashiwani Kumar  
 ### (a.k.a. **AshiwaniKumar-hacker**)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshiwaniKumar-hacker&color=red)
@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-I'm **Mr. Ashiwani Kumar**, a passionate **Full-Stack Web Developer** and tech enthusiast.  
+I'm Mr. Ashiwani Kumar, a **Full-Stack Web Developer**, SaaS builder and tech enthusiast.  
 I love building modern web applications, exploring new technologies, and improving my design skills every day.
 
 ---
